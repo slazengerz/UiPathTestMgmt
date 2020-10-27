@@ -158,7 +158,7 @@
           </Sequence>
         </If.Then>
         <If.Else>
-          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Check build run -check email notification-2&quot;]" />
+          <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,93" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;Check build run -check email notification-3&quot;]" />
         </If.Else>
       </If>
     </Sequence>
